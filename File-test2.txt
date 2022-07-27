@@ -1,0 +1,2 @@
+Adding text to the file
+These changes are from test2
